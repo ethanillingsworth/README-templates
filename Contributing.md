@@ -1,9 +1,9 @@
 ## Contributing
-All types of contibutions are welcome for the JSave project, whether its updating the documentation, reporting issues, or simply mentioning JSave in your projects.
+All types of contibutions are welcome for the PROJECT project, whether its updating the documentation, reporting issues, or simply mentioning PROJECT in your projects.
 
 Remember this before contibuting, you should open an **Issue** if you don't think you can contribute and open a **Pull Request** if you have a patch for an issue.
 
-### Table of Contents
+Sections:
 * [Reporting Bugs](#reporting-bugs)
 * [Enchancements](#enchancements)
 * [Improve Docs](#improve-docs)
@@ -37,4 +37,4 @@ If you'd like to improve the [documentation](#docs) please go over the following
 
 * Read the [docs](#docs) first! If it's already there theres no point adding it.
 * Check issues for ideas, issues are a great place to find documentation to add or edit.
-* Provide examples for the area youre writing for (eg. showing a code example of how to use the `save` function)
+* Provide examples for the area youre writing for (eg. showing a code example of how to use the `function` function)
